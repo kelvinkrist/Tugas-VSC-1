@@ -1,0 +1,106 @@
+.all {
+    background-image: url(/assets/image/background.jpg);
+    background-size: 100%;
+    background-repeat: no-repeat;
+}
+.bodytext{
+    margin-top: 300px;
+    text-align: center;
+    justify-content: center;
+    font-family: "Anton", sans-serif;
+    font-weight: 400;
+    font-style: normal;    
+}
+.main_menu{
+    font-family: "Anton", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    text-align: center;
+    color: black;
+    font-size: 30px;
+}
+.beranda {
+    margin-top: 10px;
+    margin-left: 40px;
+    margin-right: 40px;
+    list-style-type: none;
+    color: black;
+    text-align: center;
+}
+.tentang{
+    margin-top: 10px;
+    margin-left: 40px;
+    margin-right: 40px;
+    list-style-type: none;
+    color: black;
+    text-align: center;
+}
+.login{
+    padding-left: 10px;
+    padding-right: 10px;
+    margin-top: 7px;
+    margin-left: 40px;
+    margin-right: 40px;
+    list-style-type: none;
+    color: black;
+    border-style: solid;
+    border-color: black;
+    border-radius: 10px;
+    border-width: 3px;
+    width: 100px;
+    height: 40px;
+    border-spacing: 0;
+    text-align: center;
+}
+.kontak{
+    margin-top: 10px;
+    margin-left: 40px;
+    margin-right: 40px;
+    list-style-type: none;
+    color: black;
+    text-align: center;
+}
+.faq{
+    margin-top: 10px;
+    margin-left: 40px;
+    margin-right: 40px;
+    list-style-type: none;
+    color: black;
+    text-align: center;
+}
+.logo_menu{
+    width: 30px;
+    margin-top: 15px;
+    list-style-type: none;
+    float: right;
+}
+.menikmati{
+    text-align: center;
+    font-size: 150px;
+    line-height: 100px;
+    color: black;
+}
+.ngopi{
+    text-align: center;
+    font-size: 30px;
+    line-height: 20px;
+    color: black;
+    margin-top: -50px;
+}
+.daftar{
+    background-color: black;
+    border: none;
+    color: whitesmoke;
+    padding: 10px 35px;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 40px;
+    border-radius: 10px;
+    margin-top: 50px;
+    margin-left: auto;
+    margin-right: auto;
+    line-height: auto;
+}
